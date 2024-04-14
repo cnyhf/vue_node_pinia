@@ -1,2 +1,2 @@
-# vue_node_pinia
-这是新闻管理系统的pinia版本
+# vue_node_project
+这是一个基于vue3+node.js+express+mysql的新闻管理发布项目
